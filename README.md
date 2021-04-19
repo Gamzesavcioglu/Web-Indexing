@@ -21,7 +21,7 @@ Anasayfa
    <img src= "https://user-images.githubusercontent.com/46785635/115254477-0f2f5c00-a136-11eb-936f-29964ed66fab.jpeg" width=300>
    
    
-   3. Benzerlik Skorlaması
+3. Benzerlik Skorlaması
 
    Kullanıcından alınan 2 URL için ilk girilen ana URL içeriğine ulaşılarak anahtar kelimelerin çıkarılmasıyla ikinci girilen URL içerisinde bu bulunan anahtar kelimelerin          frekanslarına göre bir skor hesaplanmıştır. 
    Bu hesaplamada kullanılan formül ise ana url içerindeki anahtar kelimelerin frekans toplamları F1,ana url içerisindeki toplam kelime frekansları F2, ikinci girilen URL           adresteki ana URL ile belirlediğimiz anahtar kelimelerin bu adresteki frekanslarının toplamı F3, ikinci URL adresinde bulunan toplam kelime frekansları F4 ise skor hesabı:
