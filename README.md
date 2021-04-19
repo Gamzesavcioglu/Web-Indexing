@@ -39,7 +39,7 @@ Anasayfa
    Verilen URL bilgisini almak için oluşturulan text alanına kullanıcı tarafından girilen adrese ulaşarak bu adreste bulunan metinde en çok tekrar eden kelimeler, bağlaç olmayan       ve kelime uzunluğu ikiden fazla olarak belirlenen 10 anahtar kelime yazdırılmıştır.
 
 
-   <img src= "https://user-images.githubusercontent.com/46785635/115254477-0f2f5c00-a136-11eb-936f-29964ed66fab.jpeg" width=300>
+   <img src= "https://user-images.githubusercontent.com/46785635/115254477-0f2f5c00-a136-11eb-936f-29964ed66fab.jpeg" width=400>
    
    
 3. Benzerlik Skorlaması:
@@ -51,7 +51,7 @@ Anasayfa
   100*((100*(F3))/F4))/((100*(F1))/F2)  olarak hesaplanır.
 
 
-  <img src= "https://user-images.githubusercontent.com/46785635/115254782-5b7a9c00-a136-11eb-94d8-4519c51832af.jpeg" width=300>
+  <img src= "https://user-images.githubusercontent.com/46785635/115254782-5b7a9c00-a136-11eb-94d8-4519c51832af.jpeg" width=400>
  
  
 4.Site İndexleme Ve Sıralama:
@@ -60,7 +60,7 @@ Kullanıcıdan ana URL ve web kümesi alınarak, ana URL için anahtar kelime ç
 
 
 
-   <img src= "https://user-images.githubusercontent.com/46785635/115256005-844f6100-a137-11eb-8749-d7e9b7567386.jpeg" width=300>
+   <img src= "https://user-images.githubusercontent.com/46785635/115256005-844f6100-a137-11eb-8749-d7e9b7567386.jpeg" width=400>
  
  
  
@@ -70,7 +70,7 @@ Kullanıcıdan ana URL ve web kümesi alınarak, ana URL için anahtar kelime ç
 Kullanıcıdan ana URL ve web kümesi alınarak, ana URL için anahtar kelime çıkarma işlemi yapılmıştır.Anahtar kelimelerin eş anlamlıları synonyms.txt dosyasında arama işlemi yapılarak bu dosyada bulunan kelimelerin eş anlamlıları da anahtar kelime dizisine eklenerek gösterilmiştir. Site indexleme ve sıralama isterinde yapılan tüm işlemler bu anahtar kelimeler dizisi içinde yapılarak sonuçları ekrana yansıtılmıştır.
  
  
- <img src= "https://user-images.githubusercontent.com/46785635/115266649-0d1eca80-a141-11eb-982e-8826aff0ce4c.jpeg" width=300>
+ <img src= "https://user-images.githubusercontent.com/46785635/115266649-0d1eca80-a141-11eb-982e-8826aff0ce4c.jpeg" width=400>
  
   
   
