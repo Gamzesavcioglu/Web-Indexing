@@ -35,7 +35,7 @@ Anasayfa
  
 4.Site İndexleme Ve Sıralama
 
-   <img src= " https://user-images.githubusercontent.com/46785635/115256005-844f6100-a137-11eb-8749-d7e9b7567386.jpeg" width=300>
+   <img src= "https://user-images.githubusercontent.com/46785635/115256005-844f6100-a137-11eb-8749-d7e9b7567386.jpeg" width=300>
  
  
   
