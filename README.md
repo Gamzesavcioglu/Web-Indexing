@@ -23,7 +23,7 @@ Her aşama için oluşturulmuş butonlara tıklayarak işlemi gerçekleştirebil
 Anasayfa
  
  
-<img src= "https://user-images.githubusercontent.com/46785635/115252571-41d85500-a134-11eb-8f97-15f2735725a2.jpeg" width=300>
+<img src= "https://user-images.githubusercontent.com/46785635/115252571-41d85500-a134-11eb-8f97-15f2735725a2.jpeg" width=400>
 
 
 1.	Frekans Hesaplama:
@@ -31,7 +31,7 @@ Anasayfa
     •	URL iceriginde (URL’in gosterdigi sayfa iceriginde) her kelimenin kacar defa yer aldigi sonucu (frekansı) hesaplanmıştır.
 
 
-   <img src= "https://user-images.githubusercontent.com/46785635/115253619-39344e80-a135-11eb-844d-26a0852a96e5.jpeg" width=300>
+   <img src= "https://user-images.githubusercontent.com/46785635/115253619-39344e80-a135-11eb-844d-26a0852a96e5.jpeg" width=400>
 
 
 2.Anahtar Kelime Çıkarma:
