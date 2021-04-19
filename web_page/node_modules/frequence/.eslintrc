@@ -1,0 +1,12 @@
+{
+    "env": {
+        "browser": false,
+        "es6": true,
+        "mocha": true,
+        "node": true
+     },
+     "rules": {
+         "no-var": ["error"],
+         "space-before-function-paren": ["error", { "anonymous": "always", "named": "never" }]
+    }
+}

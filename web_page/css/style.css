@@ -1,0 +1,386 @@
+.banner{
+	background-image: url("/css/arka_plan1.jpg");
+	position: fixed; 
+	  width: 100%;
+	  height: 100%;	  
+	  background-position:center;
+	  background-size:cover;
+	}
+.banner1{
+	background-image: url("/css/arka_plan1.jpg");
+	position: fixed; 
+	  top: 0; 
+	  left: 0; 
+	  min-width: 100%;
+	  min-height: 100%;
+	  background-position:center;
+	  background-size:cover;
+	}
+.banner2{
+	background-image: url("/css/arka_plan1.jpg");
+		position: fixed; 
+		  top: 0; 
+		  left: 0; 
+		  min-width: 100%;
+		  min-height: 100%;
+		  background-position:center;
+		  background-size:cover;
+		}
+.banner3{
+	background-image: url("/css/arka_plan1.jpg");
+			position: fixed; 
+			  top: 0; 
+			  left: 0; 
+			  min-width: 100%;
+			  min-height: 100%;
+			  background-position:center;
+			  background-size:cover;
+			}
+.banner4{
+	background-image: url("/css/arka_plan1.jpg");
+		position: fixed; 
+		top: 0; 
+		left: 0; 
+		min-width: 100%;
+		 min-height: 100%;
+		background-position:center;
+		background-size:cover;
+		}
+.banner5{
+	background-image: url("/css/arka_plan1.jpg");
+		position: fixed; 
+		top: 0; 
+		left: 0; 
+		min-width: 100%;
+		min-height: 100%;
+		background-position:center;
+		background-size:cover;
+}
+.button1{
+	background:#000000;
+    background: linear-gradient(top, #000000 #000000);
+    padding:1px 90px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 15px Arial, Helvetica, sans-serif;
+	position: absolute;
+	left: 100px;
+	top: 50px;
+   
+
+}
+.button2{
+	background:#000000;
+    background: linear-gradient(top, #000000 #000000);
+    padding:1px 90px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 15px Arial, Helvetica, sans-serif;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	
+
+
+}
+.button3{
+	background:#000000;
+    background: linear-gradient(top, #000000 #000000);
+    padding:1px 90px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 15px Arial, Helvetica, sans-serif;
+	position: absolute;
+	left: 100px;
+	top: 150px;
+	
+
+}
+.button4{
+	background:#000000;
+    background: linear-gradient(top, #000000 #000000);
+    padding:1px 90px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 15px Arial, Helvetica, sans-serif;
+	position: absolute;
+	left: 100px;
+	top: 200px;
+	
+
+}
+.button5{
+	background:#000000;
+    background: linear-gradient(top, #000000 #000000);
+    padding:1px 90px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 15px Arial, Helvetica, sans-serif;
+	position: absolute;
+	left: 100px;
+	top: 250px;
+	
+
+}
+.button1_1{
+
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	left: 900px;
+	top:350px
+	
+
+}
+.text1{
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	left: 635px;
+	top:350px;
+
+}
+.text2{
+
+	background:#000000;
+	background: linear-gradient(top, #000000 #000000);
+	position: absolute;
+	color:#fff;
+	left: 635px;
+	top:400px
+
+}
+.button2_1{
+
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	left: 900px;
+	top:350px
+
+}
+
+.text3{
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	left: 635px;
+	top:350px;
+
+}
+.text4{
+
+	background:#000000;
+	background: linear-gradient(top, #000000 #000000);
+	position: absolute;
+	color:#fff;
+	left: 635px;
+	top:400px
+
+}
+.button3_1{
+
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	right: 800px;
+	top:275px
+
+}
+.text5{
+
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	top: 250px;
+	right: 975px; 
+
+}
+.text6{
+
+	background:#000000;
+	background: linear-gradient(top, #000000 #000000);
+	position: absolute;
+	color:#fff;
+	right: 975px; 
+	top:300px
+
+}
+.text7{
+
+	background:#000000;
+	background: linear-gradient(top, #000000 #000000);
+	position: absolute;
+	color:#fff;
+	left: 950px;
+	top:400px
+
+}
+
+.text8
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 265px; 
+	right: 550px;
+}
+.text9
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 400px;
+	right: 1000px; 
+}
+.text10
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 200px;
+	left: 470px; 
+}
+.button4_1{
+
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	left: 675px;
+	top:200px
+
+}
+.text11
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 250px;
+	left: 470px; 
+}
+.text25
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 450px;
+	right: 1000px; 
+}
+.text13
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 500px;
+	left: 1100px; 
+}
+.button5_1{
+
+	background:#000000;
+	position: absolute;
+	color:#fff;
+	top:350px;
+	left: 900px;
+}
+.text12
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 200px;
+	left: 1100px; 
+}
+.text15
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 350px;
+	left: 635px; 
+}
+.text16
+{
+	background:#000000;
+	background: linear-gradient(top, #000000 #000000);
+	position: absolute;
+	color:#fff;
+	left: 635px;
+	top:400px
+}
+.text17
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 500px;
+	left: 1350px; 
+}
+.text22
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 200px;
+	left: 1350px; 
+}
+.text19
+{
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 200px;
+	left: 30px; 
+}
+.text20
+{
+	
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 250px; 
+	right: 620px; 
+}
+.text21
+{
+	
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 650px; 
+	right: 820px; 
+}
+.text18
+{
+	
+	color:#fff;
+	background:#000000;
+	position: absolute;
+	top: 500px;
+	left: 30px;
+}
+.text23
+{
+	
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 650px; 
+	right: 550px; 
+}
+.text24
+{
+	
+	color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 650px; 
+	right: 1020px; 
+}
+.text14
+{
+		color:#fff;
+	background:#000000;
+	position: absolute;
+    top: 650px; 
+	right: 1000px; 
+}

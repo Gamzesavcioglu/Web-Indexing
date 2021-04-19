@@ -1,0 +1,22 @@
+{
+  "name": "web_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3",
+    "frequence": "^0.1.1",
+    "fs": "0.0.1-security",
+    "got": "^10.7.0",
+    "jquery": "^3.6.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "synonyms": "^1.0.1"
+  }
+}
