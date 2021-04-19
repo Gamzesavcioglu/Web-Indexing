@@ -20,6 +20,7 @@ Anasayfa
 
    <img src= "https://user-images.githubusercontent.com/46785635/115254477-0f2f5c00-a136-11eb-936f-29964ed66fab.jpeg" width=300>
    
+   
 3. Benzerlik Skorlaması
 
   Kullanıcından alınan 2 URL için ilk girilen ana URL içeriğine ulaşılarak anahtar kelimelerin çıkarılmasıyla ikinci girilen URL içerisinde bu bulunan anahtar kelimelerin         frekanslarına göre bir skor hesaplanmıştır. 
@@ -30,4 +31,14 @@ Anasayfa
 
 
   <img src= "https://user-images.githubusercontent.com/46785635/115254782-5b7a9c00-a136-11eb-94d8-4519c51832af.jpeg" width=300>
+ 
+ 
+4.Site İndexleme Ve Sıralama
+
+   <img src= " https://user-images.githubusercontent.com/46785635/115256005-844f6100-a137-11eb-8749-d7e9b7567386.jpeg" width=300>
+ 
+ 
+  
+  
+  
 
